@@ -95,3 +95,4 @@ INSERT INTO ololo VALUES (Branch_seq.nextval, 'Корженевского', 'Vitebsk', '+3752
 --"hello master111"
 --"hello master222 "
 --"hello master333"
+--"hello master4"
