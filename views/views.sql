@@ -89,3 +89,6 @@ CREATE OR REPLACE VIEW ololo AS
 SELECT * FROM Branch B WHERE B.city = 'Minsk' WITH CHECK OPTION;
 
 INSERT INTO ololo VALUES (Branch_seq.nextval, 'Корженевского', 'Vitebsk', '+37527465768'); 
+
+
+--"hello git"
